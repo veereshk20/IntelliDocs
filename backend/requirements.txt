@@ -1,0 +1,25 @@
+flask
+werkzeug
+flask-cors
+numpy
+os
+json
+numpy
+dox2txt
+easyocr
+pdf2image
+
+flask
+flask_cors
+utils
+
+google-generativeai
+
+
+in ubuntu do
+
+sudo apt update
+sudo apt install poppler-utils
+sudo apt install libpoppler-cpp-dev
+
+/usr/bin/pdftoppm

@@ -1,0 +1,30 @@
+{
+  "MetaData": "DRLOGY PATHOLOGY LAB\n\nAccurate | Caring | Instant\n\n\n\nLab ID: 11223344556677889900\n\nEmail: dringypathlab@drlogy.com\n\nAddress: 105/108 Mart Vion Complex,\n\nHealthcare Road, Mumbai, 400001\n\nContact: +91-9834567890\n\n\n\nPatient Details:\n\n----------------\n\nName: Rahul Gandhi\n\nAge: 55 Years\n\nSex: Male\n\nPID: 105\n\n\n\nSample Collected At:\n\nHouse No. 15, Shanti Vihar,\n\nSouth Extension, New Delhi\n\n\n\nReferred By:\n\nDr. Arvind Kumar\n\n\n\nInvestigation: Complete Blood Count (CBC)\n\nRegistered on: 09:30 AM, 26 Feb 2025\n\nCollected on: 09:45 AM, 26 Feb 2025\n\nReported on: 10:30 AM, 26 Feb 2025\n\n\n\n------------------------------------------------------------\n\nTest                                        Result     Reference Value       Unit       Interpretation\n\n------------------------------------------------------------\n\nHemoglobin (Hb)                             11.2       13.0 - 17.0           g/dL       (Low)\n\nRBC Count                                   4.5        4.5 - 6.0             million/cumm (Borderline)\n\nPacked Cell Volume (PCV)                    36.0       40.0 - 50.0           %          (Low)\n\nMean Corpuscular Volume (MCV)               86         80 - 100              fL         (Normal)\n\nMean Corpuscular Hemoglobin (MCH)           26         27 - 33               pg         (Low)\n\nMean Corpuscular Hemoglobin Conc. (MCHC)      32         32 - 36               g/dL       (Normal)\n\nRed Cell Distribution Width (RDW)           15.5       11.5 - 14.5           %          (High)\n\nWBC Count                                   10500      4000 - 11000          /cumm      (Normal)\n\n\n\nDifferential Count:\n\n   Neutrophils                             68         40 - 60               %          (High)\n\n   Lymphocytes                             25         30 - 40               %          (Low)\n\n   Monocytes                               4          2 - 8                 %          (Normal)\n\n   Eosinophils                             2          1 - 4                 %          (Normal)\n\n   Basophils                               1          0 - 1                 %          (Normal)\n\n------------------------------------------------------------\n\n\n\nInstrument: Fully automated cell counter - Mindray 300\n\n\n\nInterpretation:\n\nThe CBC indicates mild anemia with low hemoglobin, reduced PCV, and slightly low MCH. An elevated RDW and higher neutrophil percentage suggest a stress response or early inflammation. Clinical correlation is advised.\n\n\n\nMedical Lab Technician: Dr. Payal Shah (OMLT BMLT)\n\nPathologist: Dr. Vimal Shah, MD\n\nContact: +91-433450300\n\n\n\n------------------------------------------------------------\n\n\n",
+  "summary": "This document is a pathology lab report from DRLOGY PATHOLOGY LAB for patient Rahul Gandhi. The report details a Complete Blood Count (CBC) performed on February 26, 2025. The results indicate mild anemia, with low hemoglobin, reduced PCV, and slightly low MCH. An elevated RDW and higher neutrophil percentage are also noted, suggesting a possible stress response or early inflammation. Clinical correlation is advised by the pathologist, Dr. Vimal Shah.",
+  "sentiment": "neutral",
+  "class": "document",
+  "tags": [
+    "CBC",
+    "Blood Count",
+    "Pathology",
+    "Anemia",
+    "Lab Report"
+  ],
+  "datatype": "both Numerical and Text",
+  "importance": 5,
+  "Medical data": {
+    "PatientName": "Rahul Gandhi",
+    "Patient Identification": {
+      "Name": "Rahul Gandhi",
+      "Age": "55 Years",
+      "Sex": "Male",
+      "PID": "105",
+      "Sample Collected At": "House No. 15, Shanti Vihar,\nSouth Extension, New Delhi",
+      "Referred By": "Dr. Arvind Kumar"
+    },
+    "Clinical Data": {
+      "Abnormalities": "Hemoglobin (Hb): Low, RBC Count: Borderline, Packed Cell Volume (PCV): Low, Mean Corpuscular Hemoglobin (MCH): Low, Red Cell Distribution Width (RDW): High, Neutrophils: High, Lymphocytes: Low",
+      "Interpretation": "The CBC indicates mild anemia with low hemoglobin, reduced PCV, and slightly low MCH. An elevated RDW and higher neutrophil percentage suggest a stress response or early inflammation. Clinical correlation is advised."
+    }
+  }
+}

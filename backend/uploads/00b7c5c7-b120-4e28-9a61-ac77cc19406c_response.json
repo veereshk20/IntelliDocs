@@ -1,0 +1,41 @@
+{
+  "MetaData": {
+    "FileName": "hwq0lkumdqiqlckel2om.pdf",
+    "FileType": "pdf"
+  },
+  "summary": "This document is a medical bill from Medanta Hospital & Diagnostics for patient Rahul Gandhi, dated 27/02/2025. The bill includes charges for consultations, lab tests, radiology, scans, medicine, nursing, room, ambulance, surgical procedure, post-operative care, and administrative fees. The subtotal is INR 35,250, with a discount of INR 1,500 and service tax of INR 6,111, resulting in a grand total of INR 39,861. Payment is pending and due on 05/03/2025.",
+  "sentiment": "neutral",
+  "class": "invoices",
+  "tags": [
+    "Medical Bill",
+    "Medanta Hospital",
+    "Patient Bill",
+    "Healthcare Charges",
+    "Invoice"
+  ],
+  "datatype": "both Numerical and Text",
+  "importance": 4,
+  "Medical data": {
+    "PatientName": "Rahul Gandhi",
+    "Patient Identification": {
+      "Patient Information": {
+        "Patient ID": "105",
+        "Patient Name": "Rahul Gandhi",
+        "Address": "House No. 15, Shanti Vihar; South Extension; New Delhi, Delhi, 110049",
+        "Contact": "+91-9876543211"
+      }
+    },
+    "Billing": {
+      "Hospital Name": "Medanta Hospital",
+      "Address": "Block B, Sector 22, Gurgaon, Haryana, 122001",
+      "Phone": "+91-124-4567890",
+      "Website": "www.medanta.org",
+      "Bill Number": "BILL-20250227-005",
+      "Bill Date": "27/02/2025",
+      "Total Amount": "39,861 INR",
+      "Due Date": "05/03/2025",
+      "Payment Status": "Pending",
+      "Payment Mode": "Not Yet Paid"
+    }
+  }
+}

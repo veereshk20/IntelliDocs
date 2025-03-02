@@ -1,0 +1,31 @@
+{
+  "MetaData": [
+    "Resources for Collaborative Learning:\n\nhttps://srijancse.medium.com/how-real-time-collaborative-editing-work-operational-transformation-ac4902d75682\n\n\n\n\n\nDocuments in the format of pdf or docux are uploaded\n\nMeta data , tags , ai powered search options, collaborative editing\n\nClassifying, relationship between documents, sentiment analysis, summary, \n\n\n\n\n\nFrontend Designs:\n\nhttps://dribbble.com/shots/22395153-Document-Home\n\nhttps://dribbble.com/shots/22606323-Aline-Document-Management-Dashboard\n\nhttps://dribbble.com/shots/20909587-ProDeel-Compliance-Documents\n\n\n\n\n\n#0073E6\n\n#0059B3\n\n#1F497D\n\n#004080\n\n#00BBFF\n\n#001AFF\n\n#DFDFDF\n\n\n\nCollab Edit\n\nhttps://www.flaticon.com/free-icon/writing_1001371?term=editing&page=1&position=13&origin=search&related_id=1001371\n\nFile Convertor\n\nhttps://www.flaticon.com/free-icon/convert_6115758?related_id=6115758&origin=search\n\nRecent\n\nhttps://www.flaticon.com/free-icon/recent_8221097?term=recent&page=1&position=2&origin=search&related_id=8221097\n\nProfile\n\nhttps://www.flaticon.com/free-icon/user_9308008?term=profile&page=1&position=12&origin=search&related_id=9308008\n\nFolder\n\nhttps://www.flaticon.com/free-icon/folder_545336?term=folder&page=1&position=2&origin=search\n\nFiles\n\nhttps://www.flaticon.com/free-icon/document_2258853?term=files&page=1&position=1&origin=search&related_id=2258853"
+  ],
+  "summary": [
+    "This document outlines resources and features for a collaborative document management system.",
+    "It includes links to articles on real-time collaborative editing and frontend design inspirations.",
+    "The system supports various file formats (pdf, docx) and features metadata, tags, AI-powered search, and collaborative editing.",
+    "Analysis capabilities include classifying documents, identifying relationships, sentiment analysis, and summarization.",
+    "Icon resources for features like collaborative editing, file conversion, recent files, profiles, folders, and documents are also provided."
+  ],
+  "sentiment": [
+    "positive"
+  ],
+  "class": [
+    "document"
+  ],
+  "tags": [
+    "collaborative editing",
+    "document management",
+    "AI-powered search",
+    "metadata",
+    "frontend design"
+  ],
+  "datatype": [
+    "Text"
+  ],
+  "importance": [
+    "4"
+  ]
+}

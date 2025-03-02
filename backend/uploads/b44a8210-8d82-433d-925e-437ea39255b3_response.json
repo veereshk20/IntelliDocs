@@ -1,0 +1,18 @@
+{
+  "MetaData": {
+    "FileName": "bzmdwg8wee6pbroqcjfd.pdf",
+    "FileType": "pdf"
+  },
+  "summary": "The document is a report on mental model violations in Human Computer Interaction. It compares original and modified interfaces of various applications like MAC Desktop, Google Landing Page, and Windows Shut Down, analyzing the effects of these violations on user interaction. The report identifies modifications and their impact on usability, user experience, and efficiency. The document also includes a link to Figma file, where the mental model violations are designed.",
+  "sentiment": "negative",
+  "class": "document",
+  "tags": [
+    "Mental Model Violations",
+    "Human Computer Interaction",
+    "User Interface",
+    "Usability",
+    "Figma"
+  ],
+  "datatype": "Text",
+  "importance": 3
+}

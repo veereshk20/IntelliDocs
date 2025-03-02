@@ -1,0 +1,24 @@
+{
+  "MetaData": "Hospital Name: Medanta Hospital & Diagnostics\n\nAddress: Block B, Sector 22,\n\nGurgaon, Haryana, 122001\n\nPhone: +91-124-4567890      Website: www.medanta.org\n\n\n\nBill Number: BILL-20250227-005\n\nBill Date: 27/02/2025\n\nPatient ID: 105\n\nPatient Name: Rahul Gandhi\n\nAddress: House No. 15, Shanti Vihar, South Extension, New Delhi, Delhi, 110049\n\nContact: +91-9876543211\n\n\n-----------------------------------------------------------------------------------------\n\nDescription                                      Quantity    Unit Price (INR)    Total (INR)\n\n-----------------------------------------------------------------------------------------\n\nGeneral Consultation                              1           900                900\n\nDiagnostic Lab Tests (CBC, etc.)                  1           1600               1600\n\nRadiology (Chest X-Ray)                           1           650                650\n\nUltrasound Scan                                   1           1550               1550\n\nCT Scan                                         1           4000               4000\n\nMedicine Charges                                1           2500               2500\n\nSpecialist Consultation                         1           1400               1400\n\nNursing Charges                                 1           850                850\n\nRoom Charges (3 days)                           3           3000               9000\n\nAmbulance Service                               1           900                900\n\nSurgical Procedure Fee                          1           5000               5000\n\nPost-Operative Care                             1           1200               1200\n\nMiscellaneous Supplies                          1           1300               1300\n\nAdministrative Fee                              1           350                350\n\n-----------------------------------------------------------------------------------------\n\nSubtotal:                                                                  35,250 INR\n\nDiscount:                                                                   -1,500 INR\n\n-----------------------------------------------------------------------------------------\n\nService Tax (18% on Subtotal after discount):                              6,111 INR\n\n-----------------------------------------------------------------------------------------\n\nGrand Total:                                                               39,861 INR\n\n-----------------------------------------------------------------------------------------\n\n\n\nPayment Details:\n\n----------------\n\nPayment Status: Pending\n\nPayment Mode: Not Yet Paid\n\nDue Date: 05/03/2025\n\n\n\nAdditional Information:\n\n-----------------------\n\n1. All charges include applicable taxes.\n\n2. This is an itemized bill for services rendered. Please review each entry carefully.\n\n3. For any billing inquiries, contact our billing department at +91-124-4567890.\n\n4. Retain this document for insurance or reimbursement purposes.\n\n5. Online payment options are available at www.medanta.org/payment.\n\n\n\nThank you for choosing Medanta Hospital & Diagnostics.\n\nWishing you a speedy recovery.\n\n-----------------------------------------------------------------------------------------\n\n\n",
+  "summary": "This document is a bill from Medanta Hospital & Diagnostics for patient Rahul Gandhi, generated on 27/02/2025. The bill number is BILL-20250227-005 and the patient ID is 105. It itemizes various medical services, including consultations, lab tests, radiology, scans, medicine, and surgical fees. The subtotal is 35,250 INR, with a discount of 1,500 INR and service tax of 6,111 INR, resulting in a grand total of 39,861 INR. The payment status is pending, with a due date of 05/03/2025.",
+  "sentiment": "neutral",
+  "class": "invoices",
+  "tags": [
+    "Medical Bill",
+    "Hospital Bill",
+    "Medanta Hospital",
+    "Patient Bill",
+    "Healthcare Invoice"
+  ],
+  "datatype": "both Numerical and Text",
+  "importance": 4,
+  "Medical data": {
+    "PatientName": "Rahul Gandhi",
+    "Patient Identification": {
+      "Patient Identification": "Patient ID: 105\nPatient Name: Rahul Gandhi\nAddress: House No. 15, Shanti Vihar, South Extension, New Delhi, Delhi, 110049\nContact: +91-9876543211"
+    },
+    "Billing": {
+      "Billing": "Bill Number: BILL-20250227-005\nBill Date: 27/02/2025\nSubtotal: 35,250 INR\nDiscount: -1,500 INR\nService Tax (18% on Subtotal after discount): 6,111 INR\nGrand Total: 39,861 INR\nPayment Status: Pending\nPayment Mode: Not Yet Paid\nDue Date: 05/03/2025"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "start": "nodemon server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.5.1",
+    "cookie-session": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs-extra": "^11.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "libreoffice-convert": "^1.6.1",
+    "mammoth": "^1.9.0",
+    "mongoose": "^8.10.1",
+    "multer": "^1.4.5-lts.1",
+    "passport-google-oauth20": "^2.0.0",
+    "path": "^0.12.7",
+    "pdfkit": "^0.16.0",
+    "quill": "^2.0.3",
+    "quill-delta": "^5.1.0",
+    "sharp": "^0.33.5",
+    "tmp-promise": "^3.0.3",
+    "util": "^0.12.5",
+    "uuid": "^11.1.0",
+    "uuidv4": "^6.2.13",
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
