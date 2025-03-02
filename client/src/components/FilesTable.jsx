@@ -112,7 +112,7 @@ export default function FileTable({ files, isStarredPage, location}) {
                   const tags = responseJson?.tags || [];
 
                   return(
-                    <TableRow key={index} className="border-b">
+                  <TableRow key={index} className="border-b">
                   <TableCell className="text-center cursor-pointer" onClick={() => toggleStar(file.id)}>
                     <Star
                       key={index}

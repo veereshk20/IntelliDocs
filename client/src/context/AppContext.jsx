@@ -51,7 +51,8 @@ export const AppProvider = ({ children }) => {
             year: "numeric",
             month: "short",
             day: "2-digit",
-          }),
+          }), // Fallback in case modified_at is missing or invalid
+
           owner: file.owner,
           collaborators: file.collaborators,
           starred: file.starred,

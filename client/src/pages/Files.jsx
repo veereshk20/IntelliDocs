@@ -66,7 +66,7 @@ const Files = () => {
             <DialogTitle>Smart Grouping</DialogTitle>
             <DialogDescription>View categorized files.</DialogDescription>
           </DialogHeader>
-          <div className="space-y-4">
+          <div className="max-h-80 overflow-y-auto space-y-4">
             {Object.keys(groupData).length > 0 ? (
               Object.keys(groupData).map((groupName, index) => (
                 <div key={index} className="p-4 border rounded-lg bg-white shadow">

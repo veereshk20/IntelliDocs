@@ -25,11 +25,15 @@ export default function DocumentViewer({ selectedUrl, handleBack, file }) {
    * Recursive function to render any medical data dynamically
    */
   const renderData = (data) => {
+    if (!data || typeof data !== "object") return null; // Handle empty or invalid data gracefully
+  
     return Object.entries(data).map(([key, value]) => (
       <div key={key} className="mb-2">
         <strong className="text-gray-800">{key.replace(/_/g, " ")}:</strong>{" "}
         {typeof value === "object" ? (
-          <div className="ml-4 border-l-2 border-gray-300 pl-2">{renderData(value)}</div>
+          <div className="ml-4 border-l-2 border-gray-300 pl-2">
+            {renderData(value)}
+          </div>
         ) : (
           <span className="text-gray-600">{value}</span>
         )}

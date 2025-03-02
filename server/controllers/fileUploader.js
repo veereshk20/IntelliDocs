@@ -124,6 +124,8 @@ export const fileUploader = async (req, res) => {
                 LastSeen: Date.now(),
             });
 
+            await lastSeen.save();
+
 
             
             console.log("success")
@@ -159,6 +161,7 @@ export const fileUploader = async (req, res) => {
         
           
           console.log("Updated Group Document:", updatedGroup);
+
           
         // const Group=new GroupSchema()
         return res.status(200).json({
@@ -171,25 +174,7 @@ export const fileUploader = async (req, res) => {
             return res.status(500).json({
                 message: "Error occured while uploading file",
             });
-        }
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-        
-
-        
-
-        
-        
-    
+        }   
 
 };
 
